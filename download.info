@@ -1,4 +1,0 @@
-name = Download
-description =  Provides a download link with compressed files
-core = 7.x
-dependencies[] = libraries
